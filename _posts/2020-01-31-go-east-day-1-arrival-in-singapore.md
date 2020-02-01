@@ -1,5 +1,5 @@
 ---
-title: "Go East - Day 1 - Arrival and first day in Singapore"
+title: "Go East Day 1 - Arrival in Singapore"
 tags: [blog, travel, go east 2020]
 ---
 
