@@ -1,6 +1,6 @@
 ---
-title: "Go East Day 1 - Arrival in Singapore"
-tags: [blog, travel, go east 2020]
+title: "Go East - Day 1 - Arrival in Singapore"
+tags: [blog, travel, go east]
 ---
 
 My flight (Singapore Airlines SQ 317) to Singapore leaves London Heathrow Terminal 2 at 10:55. To avoid travelling during the worst of rush hour on the M25 we (Jo is driving me) set off just after 7am. Journey is uneventful and check-in and boarding of the double decker Airbus A380 goes without a hitch. The 12 hour flight passes quicker than I'd expected with 4 films passing most of the time. Even though it's a day time flight from my perspective I manage to get an hour of sleep which is fortunate because from my destinations perspective it's an overnight flight due to the 8 hour time difference and will be landing at 7am!
