@@ -1,5 +1,5 @@
 ---
-title: "Go East - Day 2 - Exploring Little India and Beyond"
+title: "Go East - Day 2 - Little India and Orchard Road"
 tags: [blog, travel, go east]
 ---
 
